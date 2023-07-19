@@ -17,7 +17,8 @@ Sexual harassment encompasses a wide range of behaviors that are unwanted, unwel
 * Unwanted sexual messages or explicit materials: Sending sexually explicit messages, emails, texts, or sharing explicit images or videos without consent, commonly referred to as "sexting" without permission.
 * Sexual harassment online: Engaging in online behaviors like cyberstalking, unwanted sexual advances, or sharing explicit content without consent through social media, emails, or other digital platforms.
   
-Sexual harassment includes:
+  
+### Sexual harassment includes:
 * Actual or attempted rape or sexual assault.
 * Unwanted pressure for sexual favors.
 * Unwanted deliberate touching, leaning over, cornering, or pinching.
